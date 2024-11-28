@@ -3,7 +3,6 @@
 <template>
   <div>
     <p>Sister Scheduler Home Page!</p>
-    <RouterLink to="/christmas">Merry Christmas!</RouterLink>
   </div>
 </template>
 
